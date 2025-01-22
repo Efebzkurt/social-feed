@@ -1,19 +1,9 @@
-# fstore
+# social-feed
 
-A new Flutter project.
+## Log-in Screen
+<img src="https://github.com/user-attachments/assets/7c19c2df-b68a-4893-ae63-b6dd355b538a" height="300">
 
-## Getting Started
+## Home Page
+<img src="https://github.com/user-attachments/assets/46f53663-24c7-47b1-ab93-7e137bcd7ba3" height="300">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# social-feed" 
-"# social-feed" 
-"# social-feed" 
